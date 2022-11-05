@@ -1,0 +1,4 @@
+/home/systp/cmake_t/Step1/build_step1/CMakeFiles/rebuild_cache.dir
+/home/systp/cmake_t/Step1/build_step1/CMakeFiles/edit_cache.dir
+/home/systp/cmake_t/Step1/build_step1/CMakeFiles/Tutorial.dir
+/home/systp/cmake_t/Step1/build_step1/CMakeFiles/Mathing.dir

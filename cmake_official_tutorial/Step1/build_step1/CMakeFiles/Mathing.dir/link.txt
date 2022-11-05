@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Mathing.dir/mathing.cpp.o  -o Mathing 
